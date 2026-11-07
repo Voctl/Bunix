@@ -225,5 +225,5 @@ Right now Bunix have mascot calling "BunBun the Hare".
 
 ## Lisencing 
 
-GPL 3 lisence
+BSD-2-Clause
 
